@@ -1,6 +1,6 @@
 spring:
   application:
-    name: TEST-CONFIG-SERVER
+    name: CONFIG-SERVER
 
 eureka:
   instance:
