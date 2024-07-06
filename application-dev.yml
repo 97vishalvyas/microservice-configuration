@@ -1,7 +1,7 @@
 
-spring:
-  application:
-    name: DEV-CONFIG-SERVER
+#spring:
+#  application:
+#    name: DEV-CONFIG-SERVER
 
 eureka:
   instance:
